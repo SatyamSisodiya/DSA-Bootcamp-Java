@@ -1,7 +1,1 @@
-# DSA + Interview preparation bootcamp
-- [Join Replit](http://join.replit.com/kunal-kushwaha)
-- Subscribe to the [YouTube channel](https://www.youtube.com/KunalKushwaha?sub_confirmation=1)
-- [Lectures](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
-- [Course website](https://wemakedevs.org/courses/dsa)
-- [Assignments](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments) (solutions can be found on LeetCode)
-- [Connect with me](http://kunalkushwaha.com)
+VimCrypt~03!íø“‡7'qFŽ£Sª·J+óú<w—îã¿Å9¡žý5(/CŸÐÙ‡ü»ƒ1Ä³PÜBLˆ³§êày7ãfê+D
